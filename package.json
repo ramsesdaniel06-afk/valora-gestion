@@ -1,0 +1,12 @@
+{
+  "name": "valora-sistema-gestion",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Sistema de gestión VALORA: catálogo, inventario, proveedores, compras, pedidos y finanzas.",
+  "type": "module",
+  "scripts": {
+    "start": "npx --yes serve . -l 3000",
+    "dev": "npx --yes serve . -l 3000"
+  },
+  "license": "UNLICENSED"
+}

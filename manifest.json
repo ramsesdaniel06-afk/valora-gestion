@@ -1,0 +1,13 @@
+{
+  "name": "VALORA · Sistema de gestión",
+  "short_name": "VALORA",
+  "description": "Inventario, compras, pedidos y finanzas para tu negocio de belleza.",
+  "start_url": "./index.html#/panel",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#fbf9ff",
+  "theme_color": "#f1ebff",
+  "icons": [
+    { "src": "assets/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
